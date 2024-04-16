@@ -1,10 +1,10 @@
 # Traditional Imagined Speech Paradigm
-This paradigm is based on the work of [https://pubmed.ncbi.nlm.nih.gov/28745299/](Nguyen 2018). 
+This paradigm is based on the work of [Nguyen 2018](https://pubmed.ncbi.nlm.nih.gov/28745299/). 
 
 ## How to run
 
 0. Before Running
-- Install OpenViBe Desginer.
+- Install OpenViBe Designer.
 
 1. Setting up the Paradigm.
 - Open "TraditionalParadigm.xml" using OpenViBE Designer
